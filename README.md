@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lorenjac
-- 👀 I’m interested in sustainable solutions, robust software engineering, distributed systems, compilers, and languages
+- 👀 I’m interested in sustainable solutions, robust software engineering, distributed systems, compilers
 - 🌱 I’m currently learning driving a car, the Go programming language, and Slovak
 
 <!---
