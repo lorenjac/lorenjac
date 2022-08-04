@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorenjac
 - 👀 I’m interested in sustainable solutions, robust software engineering, distributed systems, compilers, languages
-- 🌱 I’m currently learning driving a car, the Go programming language, and Slovak
+- 🌱 I’m currently learning the Go programming language 🐿, the Slovak language 🇸🇰, and driving a car 🚙
 
 <!---
 lorenjac/lorenjac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
