@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lorenjac
-- 👀 I’m interested in sustainable solutions, robust software engineering, distributed systems, languages
+👋 Hi, I’m @lorenjac
+💡 I’m interested in sustainable solutions, robust software engineering, distributed systems, languages
 
 <!---
 lorenjac/lorenjac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
